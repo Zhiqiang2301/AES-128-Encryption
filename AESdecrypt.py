@@ -5,7 +5,7 @@ import time
 start_time = time.time()
 
 #check that script is running with the two text files as the two parameters or else quit
-if len(sys.argv) is not 3:#takes in two arguments for the ciphertext.txt file name and plainhex.txt file name
+if len(sys.argv) != 3:#takes in two arguments for the ciphertext.txt file name and plainhex.txt file name
     sys.exit("Error, script needs two command-line arguments. (Ciphertext.txt File and plainhex.txt File)")
 PassPhrase="+(3d><d+))*7&e32"
 
