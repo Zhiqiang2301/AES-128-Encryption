@@ -7,17 +7,6 @@ Resource(s) Used: </br>
 -Nist Announcement Publication of AES in 2001 at http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf </br>
 
 
-<br />
---------------------Demonstration--------------------<br />
-Running AESencrypt.py Script: <br />
-![encrypt](/Demo/1.encrypt.png)
-<br /><br /><br />
-Running AESencrypt.py Script: <br />
-![decrypt](/Demo/2.decrypt.png)
-<br /><br /><br />
-Checking plaintext1.txt File with plaintext2.txt File: <br />
-![check](/Demo/3.check.png)
-<br /><br /><br />
 
 
 --------------------Demonstration--------------------<br />
