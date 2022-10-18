@@ -21,13 +21,13 @@ Checking plaintext1.txt File with plaintext2.txt File: <br />
 
 
 --------------------Demonstration--------------------<br />
-Encrypt: <br />
+ERunning AESencrypt.py Script: <br />
 ![encrypt](/Demo/1.encrypt.png)
 <br /><br /><br />
-Decrypt: <br />
+DRunning AESdecrypt.py Script: <br />
 ![decrypt](/Demo/2.decrypt.png)
 <br /><br /><br />
-Check: <br />
+Checking plaintext1.txt File with plaintext2.txt File: <br />
 ![check](/Demo/3.check.png)
 <br /><br /><br />
 
