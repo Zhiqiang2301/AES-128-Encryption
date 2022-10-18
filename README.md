@@ -21,15 +21,14 @@ Checking plaintext1.txt File with plaintext2.txt File: <br />
 
 
 --------------------Demonstration--------------------<br />
-General Overview Process: <br />
-![general](/Demo/1.png)
+Encrypt: <br />
+![encrypt](/Demo/1.encrypt.png)
 <br /><br /><br />
-AES Encryption and Decryption Process: <br />
-![aesprocess](/Demo/2.png)
+Decrypt: <br />
+![decrypt](/Demo/2.decrypt.png)
 <br /><br /><br />
-plaintext1.txt File Contents: <br />
-![plaintext1](/Demo/3.png)
+Check: <br />
+![check](/Demo/3.check.png)
 <br /><br /><br />
-AESencryption Folder Contents: <br />
-![aesfolder](/Demo/4.png)
-<br /><br /><br />
+
+
