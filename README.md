@@ -10,10 +10,10 @@ Resource(s) Used: </br>
 
 
 --------------------Demonstration--------------------<br />
-ERunning AESencrypt.py Script: <br />
+Running AESencrypt.py Script: <br />
 ![encrypt](/Demo/1.encrypt.png)
 <br /><br /><br />
-DRunning AESdecrypt.py Script: <br />
+Running AESdecrypt.py Script: <br />
 ![decrypt](/Demo/2.decrypt.png)
 <br /><br /><br />
 Checking plaintext1.txt File with plaintext2.txt File: <br />
