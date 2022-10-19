@@ -16,7 +16,7 @@ Running AESencrypt.py Script: <br />
 Running AESdecrypt.py Script: <br />
 ![decrypt](/Demo/2.decrypt.png)
 <br /><br /><br />
-Checking plaintext1.txt File with plaintext2.txt File: <br />
+Checking Plaintext 1 File with Plaintext 2 File: <br />
 ![check](/Demo/3.check.png)
 <br /><br /><br />
 
